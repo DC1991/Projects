@@ -13,11 +13,9 @@ I am a PhD candidate at University of Birmingham. My research interests are in c
 <img src="https://github.com/DC1991/Projects/blob/master/imgs/arch_c.png" width=400/>
 </div>  
 
-![arch](https://github.com/DC1991/Projects/blob/master/imgs/arch_c.png)
+![arch](https://github.com/DC1991/Projects/blob/master/imgs/teaser.gif)
 
-<div  align="center"> 
- <img src="https://github.com/DC1991/Projects/blob/master/imgs/teaser.gif" width=200 height=200/>
-</div>  
+
 
 
 
