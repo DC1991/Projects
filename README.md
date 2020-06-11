@@ -7,9 +7,9 @@ I am a PhD candidate at University of Birmingham. My research interests are in c
 
 
 ## Publications
->>> Chen, Wei and Jia, Xi and Chang, Hyung Jin and Duan, Jinming and Leonardis, Ales. G2L-Net: Global to Local Network for Real-Time 6D Pose Estimation With Embedding Vector Features. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). June, 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_G2L-Net_Global_to_Local_Network_for_Real-Time_6D_Pose_Estimation_CVPR_2020_paper.pdf) [[Code]](https://github.com/DC1991/G2L_Net)
+Chen, Wei and Jia, Xi and Chang, Hyung Jin and Duan, Jinming and Leonardis, Ales. G2L-Net: Global to Local Network for Real-Time 6D Pose Estimation With Embedding Vector Features. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). June, 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_G2L-Net_Global_to_Local_Network_for_Real-Time_6D_Pose_Estimation_CVPR_2020_paper.pdf) [[Code]](https://github.com/DC1991/G2L_Net)
 
->>> to be continued
+to be continued
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -29,7 +29,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/DC1991/Projects/blob/master/imgs/arch_c.png)
+[Link](url) and 
+[2Image](https://github.com/DC1991/Projects/blob/master/imgs/arch_c.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
