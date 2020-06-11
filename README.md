@@ -1,10 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to Our Project Page
 
-You can use the [editor on GitHub](https://github.com/DC1991/Projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Personal Information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a PhD candidate at University of Birmingham. My research interests are in computer vision and deep learning.
 
-### Markdown
+
+
+## Publications
+>>> Chen, Wei and Jia, Xi and Chang, Hyung Jin and Duan, Jinming and Leonardis, Ales. G2L-Net: Global to Local Network for Real-Time 6D Pose Estimation With Embedding Vector Features. The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). June, 2020. [[Paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_G2L-Net_Global_to_Local_Network_for_Real-Time_6D_Pose_Estimation_CVPR_2020_paper.pdf) [[Code]](https://github.com/DC1991/G2L_Net)
+
+>>> to be continued
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
