@@ -11,7 +11,7 @@ Chen, Wei and Jia, Xi and Chang, Hyung Jin and Duan, Jinming and Leonardis, Ales
 
 <div  align="center"> 
 <img src="https://github.com/DC1991/Projects/blob/master/imgs/arch_c.png" width=400/>
- <img src="https://github.com/DC1991/Projects/blob/master/imgs/teaser.gif" width=400/>
+ <img src="https://github.com/DC1991/Projects/blob/master/imgs/teaser.gif" width=400 hight=100/>
 </div>  
 
 
