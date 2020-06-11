@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-I am a PhD candidate at University of Birmingham. My research interests are in computer vision and deep learning. My google scholar is available at: https://scholar.google.com/citations?user=Wv68qZwAAAAJ&hl=en
+I am a PhD candidate at University of Birmingham. My research interests are in computer vision and deep learning. My google scholar is available at [here](https://scholar.google.com/citations?user=Wv68qZwAAAAJ&hl=en).
 
 
 
