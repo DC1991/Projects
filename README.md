@@ -29,7 +29,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and 
+![Link](url)
+
 ![2Image](https://github.com/DC1991/Projects/blob/master/imgs/arch_c.png)
 ```
 
